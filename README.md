@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Musa
+I'm A Passionate Sotfware Developer
+🌐 Socials:
+LinkedIn Medium Mail
 
-<!--
-**YavuzhanCakir/YavuzhanCakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Tools
+C# Azure RabbitMQ Docker Git GitLab
 
-Here are some ideas to get you started:
+🔎 Analyze and Monitoring Tools:
+SonarQube Prometheus Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database Technologies
+PostgreSQL MSSQL Redis Couchbase
+
+📊 GitHub Stats:
+
+
+
+🔝 Top Contributed Repo
