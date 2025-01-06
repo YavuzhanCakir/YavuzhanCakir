@@ -1,4 +1,4 @@
-Hi 👋, I'm Musa
+Hi 👋, I'm yavuz
 I'm A Passionate Sotfware Developer
 🌐 Socials:
 LinkedIn Medium Mail
